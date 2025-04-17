@@ -1,0 +1,28 @@
+#image{
+  max-width:100%;
+  display:block;
+}
+
+#img-caption{
+  font-family:Bebas Neue;
+  font-size:20px;
+  text-align:center;
+  color:rgb(237, 196, 14);
+}
+
+body{
+  background-color: rgb(31, 18, 56);
+}
+
+p{
+font-family:Lexend;
+color:rgb(237, 196, 14);
+text-align:center;
+}
+
+#carrer-timeline{
+ font-family:Lexend;
+ color:white; 
+ text-align:left;
+ padding:5px;
+}
